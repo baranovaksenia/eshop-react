@@ -15,7 +15,7 @@ const Login = () => {
         <img
           src={loginImage}
           alt='Login'
-          width='400'
+          width='380'
         />
       </div>
       {/* wrap in card component */}
